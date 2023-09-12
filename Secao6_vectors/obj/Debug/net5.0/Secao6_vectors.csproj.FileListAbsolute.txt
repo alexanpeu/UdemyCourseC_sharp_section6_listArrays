@@ -1,0 +1,48 @@
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.exe
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.deps.json
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.runtimeconfig.json
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.runtimeconfig.dev.json
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.dll
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\ref\Secao6_vectors.dll
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.pdb
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.csproj.AssemblyReference.cache
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.AssemblyInfoInputs.cache
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.AssemblyInfo.cs
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.csproj.CoreCompileInputs.cache
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.dll
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\ref\Secao6_vectors.dll
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.pdb
+D:\BackupC\Users\Alexandre\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.genruntimeconfig.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.exe
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.deps.json
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.runtimeconfig.json
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.runtimeconfig.dev.json
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.pdb
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.AssemblyInfo.cs
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\refint\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.pdb
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.genruntimeconfig.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\Secao 06\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\ref\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.exe
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.deps.json
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.runtimeconfig.json
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.runtimeconfig.dev.json
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\bin\Debug\net5.0\Secao6_vectors.pdb
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.AssemblyInfo.cs
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\refint\Secao6_vectors.dll
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.pdb
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\Secao6_vectors.genruntimeconfig.cache
+C:\Users\alexa\Documents\Programas\C#\Curso Udemy\projetos\Secao6_vectors\Secao6_vectors\obj\Debug\net5.0\ref\Secao6_vectors.dll
